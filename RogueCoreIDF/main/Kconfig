@@ -1,0 +1,7 @@
+menu "RogueCore Options"
+
+config ROGUECORE_AP_FALLBACK
+    bool "Enable Wi-Fi AP fallback"
+    default n
+
+endmenu
