@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_hal.h"
 
 esp_err_t rk_gpio_init(gpio_num_t pin, gpio_mode_t mode)

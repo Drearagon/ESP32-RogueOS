@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_otad.h"
 #include "esp_https_ota.h"
 #include "esp_log.h"

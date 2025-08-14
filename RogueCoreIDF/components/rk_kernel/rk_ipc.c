@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_kernel.h"
 
 rk_msgq_t rk_msgq_create(size_t capacity, size_t msg_size)

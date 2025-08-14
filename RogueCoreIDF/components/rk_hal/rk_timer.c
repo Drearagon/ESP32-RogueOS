@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_hal.h"
 
 esp_err_t rk_timer_init(timer_group_t group, timer_idx_t idx, uint64_t alarm_us)

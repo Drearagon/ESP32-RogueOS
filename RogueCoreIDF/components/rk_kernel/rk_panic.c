@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include <stdio.h>
 #include "rk_kernel.h"
 #include "esp_system.h"

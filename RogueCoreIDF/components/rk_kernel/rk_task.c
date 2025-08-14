@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_kernel.h"
 
 rk_task_t rk_task_spawn(const char *name, TaskFunction_t entry, void *arg,
