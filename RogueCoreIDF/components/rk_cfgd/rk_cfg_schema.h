@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #pragma once
 #define RK_CFG_KEY_WIFI_SSID      "wifi.ssid"
 #define RK_CFG_KEY_WIFI_PSK       "wifi.psk"

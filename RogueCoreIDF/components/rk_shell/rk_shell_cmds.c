@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_shell.h"
 #include "rk_cfgd.h"
 #include "rk_cfg_schema.h"

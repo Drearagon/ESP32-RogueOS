@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_hal.h"
 
 esp_err_t rk_i2c_init(i2c_port_t port)

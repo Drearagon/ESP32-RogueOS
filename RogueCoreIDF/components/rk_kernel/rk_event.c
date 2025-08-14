@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_kernel.h"
 
 rk_event_t rk_event_create(void)

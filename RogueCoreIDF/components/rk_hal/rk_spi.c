@@ -1,3 +1,6 @@
+/* Copyright (c) 2024 Donavin Rediron.
+ * All rights reserved. Usage without written permission is prohibited. */
+
 #include "rk_hal.h"
 
 esp_err_t rk_spi_init(spi_host_device_t host)
