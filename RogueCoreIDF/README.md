@@ -28,3 +28,8 @@ idf.py -p <PORT> flash monitor
 ```
 
 See `docs/QUICKSTART.md` for detailed steps.
+
+## License
+
+RogueCoreIDF is proprietary software. Use, copying, modification, or distribution is prohibited without
+Donavin Rediron's written permission. See the [LICENSE](../LICENSE) file for details.
